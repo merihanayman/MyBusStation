@@ -1,0 +1,8 @@
+1),Alexandria,Cairo,internal,tuesday,8:00,bus,one-stop,Ahmed Hassan,10,100,150
+2),Alexandria,Tanta,internal,tuesday,13:00,minibus,no-stops,Khaled Tarek,6,75,125
+3),Cairo,Jordan,external,wednesday,9:00,bus,many-stops,Wael Hassan,3,500,750
+4),Cairo,Lebanon,external,wednesday,20:00,bus,many-stops,Ahmed Khaled,8,750,1125
+5),Cairo,KSA,external,11:00,sunday,bus,many-stops,Khaled Tarek,12,1000,1500
+6),Alexadria,Cairo,internal,monday,12:00,limosine,one-stop,Hany Mohamed,2,100,150
+7),Cairo,KSA,external,monday,5:00,bus,many-stops,Ahmed Khaled,15,1000,1500
+8),Alexandria,Cairo,internal,saturday,13:00,minibus,no-stops,Wael Hassan,7,100,150
